@@ -1,1 +1,1 @@
-# E-Ticaret
+# e-ticaret proje
